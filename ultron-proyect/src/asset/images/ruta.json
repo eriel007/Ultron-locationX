@@ -1,0 +1,619 @@
+{
+    "route": {
+        "sessionId": "AJUA5wcAAEMBAAAPAAAAMQAAAMgAAAB42mM4wcDAyMTAwMCekVqUapWce_TjIRkgl8Hr_hYlLu3sV9rVf80ibIF0HpBmwAJgGtM0BMEaJzzismDYafZJY8auO1EbgfQ8IM2AA3wXlD4lCbJeTiJBFSTAxcAhwYGkgBGIOdB1cTQ0QMQUGBgagHARg9AjIUYAG_QkoH-TYtA:car",
+        "realTime": 22021,
+        "distance": 385.4285,
+        "time": 20110,
+        "formattedTime": "05:35:10",
+        "hasHighway": true,
+        "hasTollRoad": true,
+        "hasBridge": true,
+        "hasSeasonalClosure": false,
+        "hasTunnel": true,
+        "hasFerry": false,
+        "hasUnpaved": false,
+        "hasTimedRestriction": false,
+        "hasCountryCross": false,
+        "legs": [
+            {
+                "index": 0,
+                "hasTollRoad": true,
+                "hasHighway": true,
+                "hasBridge": true,
+                "hasUnpaved": false,
+                "hasTunnel": true,
+                "hasSeasonalClosure": false,
+                "hasFerry": false,
+                "hasCountryCross": false,
+                "hasTimedRestriction": false,
+                "distance": 385.4285,
+                "time": 22021,
+                "formattedTime": "06:07:01",
+                "origIndex": 0,
+                "origNarrative": "",
+                "destIndex": 0,
+                "destNarrative": "",
+                "maneuvers": [
+                    {
+                        "index": 0,
+                        "distance": 0.0143,
+                        "narrative": "Head toward N Main St on S Main St. Go for 75 ft.",
+                        "time": 13,
+                        "direction": 3,
+                        "directionName": "Northeast",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:00:13",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 34.052069,
+                            "lng": -118.243549
+                        },
+                        "turnType": 0,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [
+                            "S Main St"
+                        ],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=0F0eyIoqjep4wVwd7uLXp35JlOddUk3z&size=225,160&locations=34.052069,-118.243549|marker-1||34.05223,-118.24340000000001|marker-2||&center=34.0521495,-118.2434745&defaultMarker=none&zoom=16&session=AJUA5wcAAEMBAAAPAAAAMQAAAMgAAAB42mM4wcDAyMTAwMCekVqUapWce_TjIRkgl8Hr_hYlLu3sV9rVf80ibIF0HpBmwAJgGtM0BMEaJzzismDYafZJY8auO1EbgfQ8IM2AA3wXlD4lCbJeTiJBFSTAxcAhwYGkgBGIOdB1cTQ0QMQUGBgagHARg9AjIUYAG_QkoH-TYtA:car"
+                    },
+                    {
+                        "index": 1,
+                        "distance": 0.1566,
+                        "narrative": "Turn left onto W 1st St. Go for 0.2 mi.",
+                        "time": 32,
+                        "direction": 2,
+                        "directionName": "Northwest",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:00:32",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 34.05223,
+                            "lng": -118.24340000000001
+                        },
+                        "turnType": 6,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [
+                            "W 1st St"
+                        ],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=0F0eyIoqjep4wVwd7uLXp35JlOddUk3z&size=225,160&locations=34.05223,-118.24340000000001|marker-2||34.05364,-118.24555000000002|marker-3||&center=34.052935000000005,-118.24447500000002&defaultMarker=none&zoom=15&session=AJUA5wcAAEMBAAAPAAAAMQAAAMgAAAB42mM4wcDAyMTAwMCekVqUapWce_TjIRkgl8Hr_hYlLu3sV9rVf80ibIF0HpBmwAJgGtM0BMEaJzzismDYafZJY8auO1EbgfQ8IM2AA3wXlD4lCbJeTiJBFSTAxcAhwYGkgBGIOdB1cTQ0QMQUGBgagHARg9AjIUYAG_QkoH-TYtA:car"
+                    },
+                    {
+                        "index": 2,
+                        "distance": 0.3741,
+                        "narrative": "Turn right onto N Broadway. Go for 0.4 mi.",
+                        "time": 75,
+                        "direction": 3,
+                        "directionName": "Northeast",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:01:15",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 34.05364,
+                            "lng": -118.24555000000002
+                        },
+                        "turnType": 2,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [
+                            "N Broadway"
+                        ],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=0F0eyIoqjep4wVwd7uLXp35JlOddUk3z&size=225,160&locations=34.05364,-118.24555000000002|marker-3||34.057760000000016,-118.24138000000002|marker-4||&center=34.05570000000001,-118.24346500000001&defaultMarker=none&zoom=14&session=AJUA5wcAAEMBAAAPAAAAMQAAAMgAAAB42mM4wcDAyMTAwMCekVqUapWce_TjIRkgl8Hr_hYlLu3sV9rVf80ibIF0HpBmwAJgGtM0BMEaJzzismDYafZJY8auO1EbgfQ8IM2AA3wXlD4lCbJeTiJBFSTAxcAhwYGkgBGIOdB1cTQ0QMQUGBgagHARg9AjIUYAG_QkoH-TYtA:car"
+                    },
+                    {
+                        "index": 3,
+                        "distance": 10.3527,
+                        "narrative": "Turn right and take ramp onto US-101 N (Santa Ana Fwy). Go for 10.4 mi.",
+                        "time": 731,
+                        "direction": 2,
+                        "directionName": "Northwest",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:12:11",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 34.057760000000016,
+                            "lng": -118.24138000000002
+                        },
+                        "turnType": 12,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [
+                            "US-101",
+                            "Santa Ana Fwy",
+                            "Hollywood Fwy",
+                            "CA-2"
+                        ],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=0F0eyIoqjep4wVwd7uLXp35JlOddUk3z&size=225,160&locations=34.057760000000016,-118.24138000000002|marker-4||34.14899000000005,-118.37298000000021|marker-5||&center=34.10337500000003,-118.30718000000012&defaultMarker=none&zoom=9&session=AJUA5wcAAEMBAAAPAAAAMQAAAMgAAAB42mM4wcDAyMTAwMCekVqUapWce_TjIRkgl8Hr_hYlLu3sV9rVf80ibIF0HpBmwAJgGtM0BMEaJzzismDYafZJY8auO1EbgfQ8IM2AA3wXlD4lCbJeTiJBFSTAxcAhwYGkgBGIOdB1cTQ0QMQUGBgagHARg9AjIUYAG_QkoH-TYtA:car"
+                    },
+                    {
+                        "index": 4,
+                        "distance": 6.9034,
+                        "narrative": "Keep left onto CA-170 N (Hollywood Fwy) toward Sacramento. Go for 6.9 mi.",
+                        "time": 391,
+                        "direction": 2,
+                        "directionName": "Northwest",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:06:31",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 34.14899000000005,
+                            "lng": -118.37298000000021
+                        },
+                        "turnType": 17,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [
+                            "CA-170",
+                            "Hollywood Fwy"
+                        ],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=0F0eyIoqjep4wVwd7uLXp35JlOddUk3z&size=225,160&locations=34.14899000000005,-118.37298000000021|marker-5||34.238310000000034,-118.41536000000025|marker-6||&center=34.19365000000004,-118.39417000000023&defaultMarker=none&zoom=10&session=AJUA5wcAAEMBAAAPAAAAMQAAAMgAAAB42mM4wcDAyMTAwMCekVqUapWce_TjIRkgl8Hr_hYlLu3sV9rVf80ibIF0HpBmwAJgGtM0BMEaJzzismDYafZJY8auO1EbgfQ8IM2AA3wXlD4lCbJeTiJBFSTAxcAhwYGkgBGIOdB1cTQ0QMQUGBgagHARg9AjIUYAG_QkoH-TYtA:car"
+                    },
+                    {
+                        "index": 5,
+                        "distance": 2.0139,
+                        "narrative": "Continue on I-5 N (Golden State Fwy). Go for 2.0 mi.",
+                        "time": 114,
+                        "direction": 2,
+                        "directionName": "Northwest",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:01:54",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 34.238310000000034,
+                            "lng": -118.41536000000025
+                        },
+                        "turnType": 0,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [
+                            "I-5",
+                            "Golden State Fwy"
+                        ],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=0F0eyIoqjep4wVwd7uLXp35JlOddUk3z&size=225,160&locations=34.238310000000034,-118.41536000000025|marker-6||34.260220000000025,-118.43860000000019|marker-7||&center=34.24926500000003,-118.42698000000021&defaultMarker=none&zoom=11&session=AJUA5wcAAEMBAAAPAAAAMQAAAMgAAAB42mM4wcDAyMTAwMCekVqUapWce_TjIRkgl8Hr_hYlLu3sV9rVf80ibIF0HpBmwAJgGtM0BMEaJzzismDYafZJY8auO1EbgfQ8IM2AA3wXlD4lCbJeTiJBFSTAxcAhwYGkgBGIOdB1cTQ0QMQUGBgagHARg9AjIUYAG_QkoH-TYtA:car"
+                    },
+                    {
+                        "index": 6,
+                        "distance": 2.3078,
+                        "narrative": "Take exit 156A onto CA-118 E (Ronald Reagan Fwy). Go for 2.3 mi.",
+                        "time": 147,
+                        "direction": 3,
+                        "directionName": "Northeast",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:02:27",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 34.260220000000025,
+                            "lng": -118.43860000000019
+                        },
+                        "turnType": 14,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [
+                            "CA-118",
+                            "Ronald Reagan Fwy",
+                            "Simi Valley-San Fernando Valley Fwy"
+                        ],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=0F0eyIoqjep4wVwd7uLXp35JlOddUk3z&size=225,160&locations=34.260220000000025,-118.43860000000019|marker-7||34.282800000000044,-118.41516000000017|marker-8||&center=34.271510000000035,-118.42688000000018&defaultMarker=none&zoom=11&session=AJUA5wcAAEMBAAAPAAAAMQAAAMgAAAB42mM4wcDAyMTAwMCekVqUapWce_TjIRkgl8Hr_hYlLu3sV9rVf80ibIF0HpBmwAJgGtM0BMEaJzzismDYafZJY8auO1EbgfQ8IM2AA3wXlD4lCbJeTiJBFSTAxcAhwYGkgBGIOdB1cTQ0QMQUGBgagHARg9AjIUYAG_QkoH-TYtA:car"
+                    },
+                    {
+                        "index": 7,
+                        "distance": 6.0503,
+                        "narrative": "Take the exit toward Sacramento onto I-210 W (Foothill Fwy). Go for 6.1 mi.",
+                        "time": 528,
+                        "direction": 2,
+                        "directionName": "Northwest",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:08:48",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 34.282800000000044,
+                            "lng": -118.41516000000017
+                        },
+                        "turnType": 14,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [
+                            "I-210",
+                            "Foothill Fwy"
+                        ],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=0F0eyIoqjep4wVwd7uLXp35JlOddUk3z&size=225,160&locations=34.282800000000044,-118.41516000000017|marker-8||34.319900000000025,-118.48428000000024|marker-9||&center=34.301350000000035,-118.44972000000021&defaultMarker=none&zoom=10&session=AJUA5wcAAEMBAAAPAAAAMQAAAMgAAAB42mM4wcDAyMTAwMCekVqUapWce_TjIRkgl8Hr_hYlLu3sV9rVf80ibIF0HpBmwAJgGtM0BMEaJzzismDYafZJY8auO1EbgfQ8IM2AA3wXlD4lCbJeTiJBFSTAxcAhwYGkgBGIOdB1cTQ0QMQUGBgagHARg9AjIUYAG_QkoH-TYtA:car"
+                    },
+                    {
+                        "index": 8,
+                        "distance": 60.1288,
+                        "narrative": "Take the left exit toward Sacramento/CA-14 N onto I-5 N (Golden State Fwy). Go for 60.1 mi.",
+                        "time": 3408,
+                        "direction": 2,
+                        "directionName": "Northwest",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:56:48",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 34.319900000000025,
+                            "lng": -118.48428000000024
+                        },
+                        "turnType": 15,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [
+                            "I-5",
+                            "Golden State Fwy"
+                        ],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=0F0eyIoqjep4wVwd7uLXp35JlOddUk3z&size=225,160&locations=34.319900000000025,-118.48428000000024|marker-9||35.00689000000014,-118.95168000000079|marker-10||&center=34.66339500000008,-118.71798000000052&defaultMarker=none&zoom=7&session=AJUA5wcAAEMBAAAPAAAAMQAAAMgAAAB42mM4wcDAyMTAwMCekVqUapWce_TjIRkgl8Hr_hYlLu3sV9rVf80ibIF0HpBmwAJgGtM0BMEaJzzismDYafZJY8auO1EbgfQ8IM2AA3wXlD4lCbJeTiJBFSTAxcAhwYGkgBGIOdB1cTQ0QMQUGBgagHARg9AjIUYAG_QkoH-TYtA:car"
+                    },
+                    {
+                        "index": 9,
+                        "distance": 225.9219,
+                        "narrative": "Take the exit toward San Francisco/Sacramento onto I-5 N. Go for 226 mi.",
+                        "time": 11410,
+                        "direction": 2,
+                        "directionName": "Northwest",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "03:10:10",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 35.00689000000014,
+                            "lng": -118.95168000000079
+                        },
+                        "turnType": 14,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [
+                            "I-5",
+                            "West Side Fwy",
+                            "CA-33"
+                        ],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=0F0eyIoqjep4wVwd7uLXp35JlOddUk3z&size=225,160&locations=35.00689000000014,-118.95168000000079|marker-10||37.59327000000016,-121.33641000000114|marker-11||&center=36.30008000000015,-120.14404500000097&defaultMarker=none&zoom=5&session=AJUA5wcAAEMBAAAPAAAAMQAAAMgAAAB42mM4wcDAyMTAwMCekVqUapWce_TjIRkgl8Hr_hYlLu3sV9rVf80ibIF0HpBmwAJgGtM0BMEaJzzismDYafZJY8auO1EbgfQ8IM2AA3wXlD4lCbJeTiJBFSTAxcAhwYGkgBGIOdB1cTQ0QMQUGBgagHARg9AjIUYAG_QkoH-TYtA:car"
+                    },
+                    {
+                        "index": 10,
+                        "distance": 15.8201,
+                        "narrative": "Keep left onto I-580 W toward I-580/Tracy/San Francisco. Go for 15.8 mi.",
+                        "time": 774,
+                        "direction": 2,
+                        "directionName": "Northwest",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:12:54",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 37.59327000000016,
+                            "lng": -121.33641000000114
+                        },
+                        "turnType": 17,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [
+                            "I-580"
+                        ],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=0F0eyIoqjep4wVwd7uLXp35JlOddUk3z&size=225,160&locations=37.59327000000016,-121.33641000000114|marker-11||37.73945000000014,-121.55760000000107|marker-12||&center=37.666360000000154,-121.4470050000011&defaultMarker=none&zoom=9&session=AJUA5wcAAEMBAAAPAAAAMQAAAMgAAAB42mM4wcDAyMTAwMCekVqUapWce_TjIRkgl8Hr_hYlLu3sV9rVf80ibIF0HpBmwAJgGtM0BMEaJzzismDYafZJY8auO1EbgfQ8IM2AA3wXlD4lCbJeTiJBFSTAxcAhwYGkgBGIOdB1cTQ0QMQUGBgagHARg9AjIUYAG_QkoH-TYtA:car"
+                    },
+                    {
+                        "index": 11,
+                        "distance": 46.2424,
+                        "narrative": "Keep left onto I-580 W. Go for 46.2 mi.",
+                        "time": 2736,
+                        "direction": 7,
+                        "directionName": "West",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:45:36",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 37.73945000000014,
+                            "lng": -121.55760000000107
+                        },
+                        "turnType": 17,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [
+                            "I-580",
+                            "Arthur H Breed Fwy",
+                            "MacArthur Fwy"
+                        ],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=0F0eyIoqjep4wVwd7uLXp35JlOddUk3z&size=225,160&locations=37.73945000000014,-121.55760000000107|marker-12||37.827010000000335,-122.28574000000137|marker-13||&center=37.78323000000024,-121.92167000000123&defaultMarker=none&zoom=7&session=AJUA5wcAAEMBAAAPAAAAMQAAAMgAAAB42mM4wcDAyMTAwMCekVqUapWce_TjIRkgl8Hr_hYlLu3sV9rVf80ibIF0HpBmwAJgGtM0BMEaJzzismDYafZJY8auO1EbgfQ8IM2AA3wXlD4lCbJeTiJBFSTAxcAhwYGkgBGIOdB1cTQ0QMQUGBgagHARg9AjIUYAG_QkoH-TYtA:car"
+                    },
+                    {
+                        "index": 12,
+                        "distance": 7.9722,
+                        "narrative": "Take the left exit toward San Francisco/I-80-TOLL W onto I-80 W. Go for 8.0 mi.",
+                        "time": 1233,
+                        "direction": 6,
+                        "directionName": "Southwest",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:20:33",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 37.827010000000335,
+                            "lng": -122.28574000000137
+                        },
+                        "turnType": 15,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [
+                            "I-80",
+                            "Bay Brg",
+                            "San Francisco-Oakland Bay Brg",
+                            "Willie L Brown Jr Brg",
+                            "James Lick Skwy"
+                        ],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=0F0eyIoqjep4wVwd7uLXp35JlOddUk3z&size=225,160&locations=37.827010000000335,-122.28574000000137|marker-13||37.77558000000031,-122.40581000000142|marker-14||&center=37.80129500000032,-122.3457750000014&defaultMarker=none&zoom=10&session=AJUA5wcAAEMBAAAPAAAAMQAAAMgAAAB42mM4wcDAyMTAwMCekVqUapWce_TjIRkgl8Hr_hYlLu3sV9rVf80ibIF0HpBmwAJgGtM0BMEaJzzismDYafZJY8auO1EbgfQ8IM2AA3wXlD4lCbJeTiJBFSTAxcAhwYGkgBGIOdB1cTQ0QMQUGBgagHARg9AjIUYAG_QkoH-TYtA:car"
+                    },
+                    {
+                        "index": 13,
+                        "distance": 0.2106,
+                        "narrative": "Take exit 1C toward Ninth St/Civic Center/9th St/Civic Ctr/Fell St/Golden Gate Br. Go for 0.2 mi.",
+                        "time": 53,
+                        "direction": 6,
+                        "directionName": "Southwest",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:00:53",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 37.77558000000031,
+                            "lng": -122.40581000000142
+                        },
+                        "turnType": 14,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=0F0eyIoqjep4wVwd7uLXp35JlOddUk3z&size=225,160&locations=37.77558000000031,-122.40581000000142|marker-14||37.77372000000031,-122.40856000000143|marker-15||&center=37.77465000000031,-122.40718500000142&defaultMarker=none&zoom=15&session=AJUA5wcAAEMBAAAPAAAAMQAAAMgAAAB42mM4wcDAyMTAwMCekVqUapWce_TjIRkgl8Hr_hYlLu3sV9rVf80ibIF0HpBmwAJgGtM0BMEaJzzismDYafZJY8auO1EbgfQ8IM2AA3wXlD4lCbJeTiJBFSTAxcAhwYGkgBGIOdB1cTQ0QMQUGBgagHARg9AjIUYAG_QkoH-TYtA:car"
+                    },
+                    {
+                        "index": 14,
+                        "distance": 0.1162,
+                        "narrative": "Continue on Harrison St. Go for 0.1 mi.",
+                        "time": 37,
+                        "direction": 6,
+                        "directionName": "Southwest",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:00:37",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 37.77372000000031,
+                            "lng": -122.40856000000143
+                        },
+                        "turnType": 0,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [
+                            "Harrison St"
+                        ],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=0F0eyIoqjep4wVwd7uLXp35JlOddUk3z&size=225,160&locations=37.77372000000031,-122.40856000000143|marker-15||37.77253000000031,-122.41005000000142|marker-16||&center=37.773125000000306,-122.40930500000142&defaultMarker=none&zoom=16&session=AJUA5wcAAEMBAAAPAAAAMQAAAMgAAAB42mM4wcDAyMTAwMCekVqUapWce_TjIRkgl8Hr_hYlLu3sV9rVf80ibIF0HpBmwAJgGtM0BMEaJzzismDYafZJY8auO1EbgfQ8IM2AA3wXlD4lCbJeTiJBFSTAxcAhwYGkgBGIOdB1cTQ0QMQUGBgagHARg9AjIUYAG_QkoH-TYtA:car"
+                    },
+                    {
+                        "index": 15,
+                        "distance": 0.4865,
+                        "narrative": "Turn right onto 9th St. Go for 0.5 mi.",
+                        "time": 158,
+                        "direction": 2,
+                        "directionName": "Northwest",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:02:38",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 37.77253000000031,
+                            "lng": -122.41005000000142
+                        },
+                        "turnType": 2,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [
+                            "9th St"
+                        ],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=0F0eyIoqjep4wVwd7uLXp35JlOddUk3z&size=225,160&locations=37.77253000000031,-122.41005000000142|marker-16||37.777500000000295,-122.41633000000144|marker-17||&center=37.7750150000003,-122.41319000000144&defaultMarker=none&zoom=14&session=AJUA5wcAAEMBAAAPAAAAMQAAAMgAAAB42mM4wcDAyMTAwMCekVqUapWce_TjIRkgl8Hr_hYlLu3sV9rVf80ibIF0HpBmwAJgGtM0BMEaJzzismDYafZJY8auO1EbgfQ8IM2AA3wXlD4lCbJeTiJBFSTAxcAhwYGkgBGIOdB1cTQ0QMQUGBgagHARg9AjIUYAG_QkoH-TYtA:car"
+                    },
+                    {
+                        "index": 16,
+                        "distance": 0.1908,
+                        "narrative": "Keep left onto Hayes St toward Hayes. Go for 0.2 mi.",
+                        "time": 113,
+                        "direction": 7,
+                        "directionName": "West",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:01:53",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 37.777500000000295,
+                            "lng": -122.41633000000144
+                        },
+                        "turnType": 17,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [
+                            "Hayes St"
+                        ],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=0F0eyIoqjep4wVwd7uLXp35JlOddUk3z&size=225,160&locations=37.777500000000295,-122.41633000000144|marker-17||37.77729000000029,-122.41971000000144|marker-18||&center=37.7773950000003,-122.41802000000143&defaultMarker=none&zoom=15&session=AJUA5wcAAEMBAAAPAAAAMQAAAMgAAAB42mM4wcDAyMTAwMCekVqUapWce_TjIRkgl8Hr_hYlLu3sV9rVf80ibIF0HpBmwAJgGtM0BMEaJzzismDYafZJY8auO1EbgfQ8IM2AA3wXlD4lCbJeTiJBFSTAxcAhwYGkgBGIOdB1cTQ0QMQUGBgagHARg9AjIUYAG_QkoH-TYtA:car"
+                    },
+                    {
+                        "index": 17,
+                        "distance": 0.1491,
+                        "narrative": "Turn left onto Van Ness Ave (US-101). Go for 0.1 mi.",
+                        "time": 62,
+                        "direction": 4,
+                        "directionName": "South",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:01:02",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 37.77729000000029,
+                            "lng": -122.41971000000144
+                        },
+                        "turnType": 6,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [
+                            "US-101",
+                            "Van Ness Ave"
+                        ],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=0F0eyIoqjep4wVwd7uLXp35JlOddUk3z&size=225,160&locations=37.77729000000029,-122.41971000000144|marker-18||37.77517000000029,-122.41926000000146|marker-19||&center=37.77623000000029,-122.41948500000146&defaultMarker=none&zoom=15&session=AJUA5wcAAEMBAAAPAAAAMQAAAMgAAAB42mM4wcDAyMTAwMCekVqUapWce_TjIRkgl8Hr_hYlLu3sV9rVf80ibIF0HpBmwAJgGtM0BMEaJzzismDYafZJY8auO1EbgfQ8IM2AA3wXlD4lCbJeTiJBFSTAxcAhwYGkgBGIOdB1cTQ0QMQUGBgagHARg9AjIUYAG_QkoH-TYtA:car"
+                    },
+                    {
+                        "index": 18,
+                        "distance": 0.0168,
+                        "narrative": "Turn right onto Market St. Go for 89 ft.",
+                        "time": 6,
+                        "direction": 6,
+                        "directionName": "Southwest",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:00:06",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 37.77517000000029,
+                            "lng": -122.41926000000146
+                        },
+                        "turnType": 2,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": [
+                            "Market St"
+                        ],
+                        "mapUrl": "https://www.mapquestapi.com/staticmap/v5/map?key=0F0eyIoqjep4wVwd7uLXp35JlOddUk3z&size=225,160&locations=37.77517000000029,-122.41926000000146|marker-19||37.77500000000029,-122.41948100000145|marker-20||&center=37.77508500000029,-122.41937050000146&defaultMarker=none&zoom=16&session=AJUA5wcAAEMBAAAPAAAAMQAAAMgAAAB42mM4wcDAyMTAwMCekVqUapWce_TjIRkgl8Hr_hYlLu3sV9rVf80ibIF0HpBmwAJgGtM0BMEaJzzismDYafZJY8auO1EbgfQ8IM2AA3wXlD4lCbJeTiJBFSTAxcAhwYGkgBGIOdB1cTQ0QMQUGBgagHARg9AjIUYAG_QkoH-TYtA:car"
+                    },
+                    {
+                        "index": 19,
+                        "distance": 0,
+                        "narrative": "Arrive at Market St.",
+                        "time": 0,
+                        "direction": 0,
+                        "directionName": "None",
+                        "signs": [],
+                        "maneuverNotes": [],
+                        "formattedTime": "00:00:00",
+                        "transportMode": "car",
+                        "startPoint": {
+                            "lat": 37.77500000000029,
+                            "lng": -122.41948100000145
+                        },
+                        "turnType": 0,
+                        "attributes": 0,
+                        "iconUrl": "",
+                        "streets": []
+                    }
+                ]
+            }
+        ],
+        "options": {
+            "routeType": "FASTEST",
+            "narrativeType": "text",
+            "enhancedNarrative": false,
+            "walkingSpeed": -1,
+            "highwayEfficiency": 22,
+            "avoids": false,
+            "generalize": -1,
+            "shapeFormat": "raw",
+            "unit": "M",
+            "locale": "en_US",
+            "useTraffic": false,
+            "timeType": 0,
+            "dateType": 0,
+            "doReverseGeocode": true,
+            "manMaps": true,
+            "sideOfStreetDisplay": true
+        },
+        "boundingBox": {
+            "ul": {
+                "lat": 37.82809000000036,
+                "lng": -122.41971000000144
+            },
+            "lr": {
+                "lat": 34.052069,
+                "lng": -118.24124000000002
+            }
+        },
+        "name": "I-5",
+        "maxRoutes": "",
+        "locations": [
+            {
+                "street": "31 S Main St",
+                "adminArea6": "Downtown Los Angeles",
+                "adminArea6Type": "Neighborhood",
+                "adminArea5": "Los Angeles",
+                "adminArea5Type": "City",
+                "adminArea4": "Los Angeles",
+                "adminArea4Type": "County",
+                "adminArea3": "CA",
+                "adminArea3Type": "State",
+                "adminArea1": "US",
+                "adminArea1Type": "Country",
+                "postalCode": "90012",
+                "geocodeQualityCode": "L1AAA",
+                "geocodeQuality": "ADDRESS",
+                "dragPoint": false,
+                "sideOfStreet": "N",
+                "linkId": "0",
+                "unknownInput": "",
+                "type": "s",
+                "latLng": {
+                    "lat": 34.05207,
+                    "lng": -118.24355
+                },
+                "displayLatLng": {
+                    "lat": 34.05217,
+                    "lng": -118.24366
+                },
+                "mapUrl": ""
+            },
+            {
+                "street": "1535 Market St",
+                "adminArea6": "Soma",
+                "adminArea6Type": "Neighborhood",
+                "adminArea5": "San Francisco",
+                "adminArea5Type": "City",
+                "adminArea4": "San Francisco",
+                "adminArea4Type": "County",
+                "adminArea3": "CA",
+                "adminArea3Type": "State",
+                "adminArea1": "US",
+                "adminArea1Type": "Country",
+                "postalCode": "94103",
+                "geocodeQualityCode": "L1AAA",
+                "geocodeQuality": "ADDRESS",
+                "dragPoint": false,
+                "sideOfStreet": "N",
+                "linkId": "0",
+                "unknownInput": "",
+                "type": "s",
+                "latLng": {
+                    "lat": 37.775,
+                    "lng": -122.41948
+                },
+                "displayLatLng": {
+                    "lat": 37.77491,
+                    "lng": -122.41936
+                },
+                "mapUrl": ""
+            }
+        ],
+        "locationSequence": [
+            0,
+            1
+        ]
+    },
+    "info": {
+        "statuscode": 0,
+        "copyright": {
+            "text": "© 2023 MapQuest, Inc.",
+            "imageUrl": "http://api.mqcdn.com/res/mqlogo.gif",
+            "imageAltText": "© 2023 MapQuest, Inc."
+        },
+        "messages": []
+    }
+}
